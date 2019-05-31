@@ -1,0 +1,54 @@
+.cap{
+    font-size:60px;
+    margin:75px;
+}
+
+.heading{
+    background: red;
+    background-size: 40px;
+    font-size:60px;
+    margin-left:100px;
+    margin-top:130px;
+    border: 2px solid red;
+    padding: 15px;
+}
+
+.headlines{
+    color: white;
+}
+.headlines:hover {
+    color: darkgray;
+}
+.saves:hover{
+    background: red;
+    background-size: 40px;
+    font-size:60px;
+    margin-left:100px;
+    margin-top:130px;
+    border: 2px solid red;
+    border-bottom: 2px solid yellow;
+    border-top: 2px solid yellow;
+}
+.guides:hover{
+    background: red;
+    background-size: 40px;
+    font-size:60px;
+    margin-left:100px;
+    margin-top:130px;
+    border: 2px solid red;
+    border-bottom: 2px solid yellow;
+    border-top: 2px solid yellow;
+}.download:hover{
+    background: red;
+    background-size: 40px;
+    font-size:60px;
+    margin-left:100px;
+    margin-top:130px;
+    border: 2px solid red;
+    border-bottom: 2px solid yellow;
+    border-top: 2px solid yellow;
+}
+.input_test{
+    margin-left: 25px;
+    margin-top: 50px;
+}

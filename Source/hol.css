@@ -1,0 +1,10 @@
+.connection_status_db{
+   color:green;
+}
+.button{
+   color: blue;
+   text-decoration: none;
+}.button:hover{
+   color: darkblue;
+    text-decoration: underline;
+}
